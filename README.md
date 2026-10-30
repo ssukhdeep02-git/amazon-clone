@@ -2,7 +2,7 @@
 
 A clone of the Amazon homepage that I built using only HTML and CSS. I made it to practice page layout and get better at turning a real website design into code.
 
-![Screenshot](images/screenshot.png)
+![Screenshot](images/screenshot1.png)
 
 ## What's in it
 
